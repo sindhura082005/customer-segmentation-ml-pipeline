@@ -38,24 +38,15 @@ This project solves that problem by clustering customers using purchasing patter
 ## 🗂️ Project Structure
 
 ---
-Customer_Segmentation_App/
-│
-├── app.py
-│ └── Streamlit application
-├── Customer_Segmentation.ipynb
-│ └── Data analysis & model training notebook
-├── marketing_campaign.xlsx
-│ └── Sample dataset
-├── kmeans_model.pkl
-│ └── Trained K-Means model
-├── scaler.pkl
-│ └── Feature scaler
-├── requirements.txt
-│ └── Project dependencies
-├── README.md
-│ └── Project documentation
-└── LICENSE
-└── MIT License
+| File / Folder                | Description                                   |
+|------------------------------|-----------------------------------------------|
+| app.py                       | Streamlit application for customer segmentation |
+| Customer_Segmentation.ipynb  | Data preprocessing, feature engineering, and model training |
+| marketing_campaign.xlsx     | Sample customer dataset used for analysis     |
+| kmeans_model.pkl             | Trained K-Means clustering model              |
+| scaler.pkl                   | Feature scaler used during model training     |
+| requirements.txt             | Python dependencies required to run the project |
+
 
 --
 
