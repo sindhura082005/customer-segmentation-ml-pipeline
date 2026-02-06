@@ -91,5 +91,10 @@ The trained model and scaler are loaded directly into the Streamlit app for real
 - PCA-based 2D visualization of customer clusters
 - Downloadable CSV file with assigned customer segments
 
+  <img width="957" height="454" alt="cs1" src="https://github.com/user-attachments/assets/1a2696bd-cc60-4ef7-a805-b454239f921b" />
+  <img width="1379" height="1050" alt="cs2" src="https://github.com/user-attachments/assets/78b62b4f-fbae-40bc-9ce8-fb0d23c1b9b9" />
+
+
+
 
 
