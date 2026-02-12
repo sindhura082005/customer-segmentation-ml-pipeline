@@ -135,6 +135,14 @@ Segment customers based on demographic and behavioral data to enable:
 - Supports revenue growth strategies
 
 ---
+
+## 🎥 Live Demo
+
+Watch the demo here:
+
+"C:\Users\91888\Downloads\streamlit-app-2026-02-12-14-34-35.webm"
+
+----
 ## 📷 Application Preview
 
 <img width="1600" height="759" alt="image" src="https://github.com/user-attachments/assets/063de9e4-99d0-46bd-9a5b-d9e082afc929" />
