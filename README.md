@@ -137,9 +137,7 @@ Segment customers based on demographic and behavioral data to enable:
 ---
 
 ## 🎥 Live Demo
-
-Watch the demo here:
-https://drive.google.com/file/d/1ou-K8UBuryURokuXXMW1btqk-9oC_MZ9/view?usp=drive_link
+[▶️ Watch 2-Min Demo](https://drive.google.com/file/d/1ou-K8UBuryURokuXXMW1btqk-9oC_MZ9/preview)
 
 ----
 ## 📷 Application Preview
