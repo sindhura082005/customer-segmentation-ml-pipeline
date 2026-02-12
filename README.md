@@ -117,6 +117,14 @@ Segment customers based on demographic and behavioral data to enable:
 - Production-ready deployment with serialized model artifacts
 
 ---
+## 🧩 MLOps & Production Readiness
+
+- Model serialization using Pickle for reusable deployment
+- Modular ML pipeline separating preprocessing, training, and inference logic
+- Reproducible preprocessing workflow (feature engineering + scaling consistency)
+- Dependency management using requirements.txt
+- Version-controlled project structure for collaborative development
+- Production-ready Streamlit interface for real-time inference
 
 ## 🎯 Business Impact
 
