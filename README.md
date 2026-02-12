@@ -139,8 +139,7 @@ Segment customers based on demographic and behavioral data to enable:
 ## 🎥 Live Demo
 
 Watch the demo here:
-
-"C:\Users\91888\Downloads\streamlit-app-2026-02-12-14-34-35.webm"
+https://drive.google.com/file/d/1ou-K8UBuryURokuXXMW1btqk-9oC_MZ9/view?usp=drive_link
 
 ----
 ## 📷 Application Preview
