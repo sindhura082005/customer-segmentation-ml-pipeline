@@ -126,6 +126,7 @@ Segment customers based on demographic and behavioral data to enable:
 - Supports revenue growth strategies
 
 ---
+## 📷 Application Preview
 
 <img width="1600" height="759" alt="image" src="https://github.com/user-attachments/assets/063de9e4-99d0-46bd-9a5b-d9e082afc929" />
 <img width="1379" height="1050" alt="image" src="https://github.com/user-attachments/assets/23f5703a-cc30-49b6-b7af-c9954ad98332" />
